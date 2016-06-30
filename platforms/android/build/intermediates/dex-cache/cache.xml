@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6c9f927b3199aa0644cc115dfc4ad6727236f71b">
+        <dex dex="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\classes-d1598e1e15065ae26e9a94d457b2f988eb38a009.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\exploded-aar\barcodescanner\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="74969bd25b24524b96eb730c448be8c01916e1e1">
+        <dex dex="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\classes-b2392d97665941a4c488ad8a2f6607ed999d9bee.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\classes-1919cf9597a13f8583b024d763fdacfb645c3e01.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2-63d5e47eafa12e9b3e8b06caa7d13cc67bc4cdc7.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2-8ea5235617d7e8572c828d0837dee079c72af510.jar" />
+    </item>
+
+</items>

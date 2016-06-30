@@ -1,0 +1,6 @@
+C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\classes\debug
+C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2-63d5e47eafa12e9b3e8b06caa7d13cc67bc4cdc7.jar
+C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\classes-d1598e1e15065ae26e9a94d457b2f988eb38a009.jar
+C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2-8ea5235617d7e8572c828d0837dee079c72af510.jar
+C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\classes-b2392d97665941a4c488ad8a2f6607ed999d9bee.jar
+C:\xampp\htdocs\AP-BARCODE1\platforms\android\build\intermediates\pre-dexed\debug\classes-1919cf9597a13f8583b024d763fdacfb645c3e01.jar
